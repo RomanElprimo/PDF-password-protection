@@ -1,9 +1,9 @@
-#Description:
+# Description:
 The Python PDF Protector is a versatile and user-friendly project designed to enhance the security of PDF files by encrypting them with passwords. With this project, you can prevent unauthorized access to sensitive information, ensuring the confidentiality and integrity of your PDF documents.
 
 The project leverages the power and simplicity of the Python programming language, along with its extensive ecosystem of libraries, to provide an efficient and effective solution for protecting PDF files. By utilizing the PyPDF2 library, the project enables seamless interaction with PDF documents, allowing users to easily implement password-based encryption.
 
-#Key Features:
+# Key Features:
 
 1) Password-based Encryption: The Python PDF Protector facilitates the encryption of PDF files using passwords. By applying strong encryption algorithms, such as AES (Advanced Encryption Standard), the project ensures that only authorized individuals with the correct password can access the protected PDF files.
 
